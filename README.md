@@ -1,8 +1,8 @@
-Designed a database for Zen class programme using mongodb
+# Designed a database for Zen class programme using mongodb
 
 Database Folder(contains all the data for the query)
 
-Queries:
+# Queries:
 
 1. Find all the topics and tasks which are thought in the month of October
 2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
